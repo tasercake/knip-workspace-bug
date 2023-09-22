@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "foo",
+      "bar"
+    ]
+  },
+  "version": "0.0.0",
+  "devDependencies": {
+    "knip": "^2.25.2"
+  }
+}
